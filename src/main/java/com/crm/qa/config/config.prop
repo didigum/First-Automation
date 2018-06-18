@@ -1,0 +1,11 @@
+registrationUrl=https://www.freecrm.com/register/
+url=https://www.freecrm.com/index.html
+browser=chromeDriver
+loginUsername=didigum
+password=Wiprogateway1!
+firstName=Ranjeeth
+lastName=Didigum
+email=didigumranjeeth@gmail.com
+emailConfirm=didigumranjeeth@gmail.com
+registrationUserName=didigum
+confirmPassword=Wiprogateway1!
